@@ -16,5 +16,5 @@ html, body, #root {
 }
 
 body {
-  background-color: var(--color-bg); /* or your desired background */
+  background-color: var(--color-bg); 
 }
