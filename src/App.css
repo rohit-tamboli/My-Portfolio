@@ -7,6 +7,16 @@
     overflow: hidden;    
 }
 
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--color-bg); /* or your desired background */
+}
+
 .customTitle {
   color: blue;
   font-size: 3rem;
