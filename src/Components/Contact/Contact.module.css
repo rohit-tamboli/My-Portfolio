@@ -53,9 +53,9 @@
 @media screen and (max-width: 830px) {
     .container {
         flex-direction: column;
-        gap: 22px;
+        gap: 25px;
         margin-top: 50px;
-        padding: 37px 10%;
+        padding: 35px 10%;
     }
 
     .text {
@@ -65,8 +65,8 @@
     }
 
     .text p {
-        font-size: 25px;
-        margin: 5px 0;
+        font-size: 22px;
+        margin: 3px 0;
     }
 
     .links {
