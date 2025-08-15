@@ -122,21 +122,22 @@
     .heroImg {
         width: 250px;
         /* display: none; */
-        margin-top: -80px;
+        margin-top: -90px;
     }
 
     .title {
-        font-size: 52px;
-        margin-bottom: 20px;
+        font-size: 48px;
+        margin-top: 20px;
+        margin-bottom: 10px;
     }
 
     .heading {
-        font-size: 34px;
-        margin-bottom: 20px;
+        font-size: 30px;
+        margin-bottom: 10px;
     }
 
     .description {
-        font-size: 28px;
+        font-size: 20px;
         width: 100%;
         margin-bottom: 20px;
     }

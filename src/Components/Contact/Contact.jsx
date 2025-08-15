@@ -12,16 +12,16 @@ const Contact = () => {
             </div> 
             <ul className={styles.links}>
                 <li className={styles.link}> 
-                    <a href=""><img src={getImageUrl("contact/emailIcon.png")} alt="Email Icon" /></a>
-                    <a href="mailto:myemail@gmail.com">tambolirohit2412@gmail.com</a>
+                    <a href="mailto:tambolirohit2412@gmail.com"><img src={getImageUrl("contact/emailIcon.png")} alt="Email Icon" /></a>
+                    <a href="mailto:tambolirohit2412@gmail.com">tambolirohit2412@gmail.com</a>
                 </li>
-                <li className={styles.link}>
-                    <a href=""><img src={getImageUrl("contact/linkedinIcon.png")} alt="Linkedin Icon" /></a>
-                    <a href="https://www.linkedin.com/myname">linkedin.com/in/tambolirohit/</a>
+                <li className={styles.link}> 
+                    <a href="https://www.linkedin.com/in/tambolirohit/"><img src={getImageUrl("contact/linkedinIcon.png")} alt="Linkedin Icon" /></a>
+                    <a href="https://www.linkedin.com/in/tambolirohit/">linkedin.com/in/tambolirohit/</a>
                 </li>
-                <li className={styles.link}>
-                    <a href=""><img src={getImageUrl("contact/githubIcon.png")} alt="Github Icon" /></a>
-                    <a href="https://www.github.com/myname">github.com/rohit-tamboli</a>
+                <li className={styles.link}> 
+                    <a href="https://www.github.com/rohit-tamboli"><img src={getImageUrl("contact/githubIcon.png")} alt="Github Icon" /></a>
+                    <a href="https://www.github.com/rohit-tamboli">github.com/rohit-tamboli</a>
                 </li>
             </ul> 
         </footer>
